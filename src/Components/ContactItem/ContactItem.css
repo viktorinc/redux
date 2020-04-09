@@ -1,0 +1,119 @@
+.list-item {
+    padding: 20px;
+}
+
+.name {
+    background-color: #00BFFF;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    padding: 7px;
+    border-radius: 7px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.phone {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    background-color: #00BFFF;
+    color: black;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.email {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    background-color: #00BFFF;
+    color: black;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.address {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    background-color: #00BFFF;
+    color: black;
+    padding: 7px;
+    border-radius: 7px;
+}
+
+.horizontal-menu {
+    list-style-type: none;
+}
+
+.horizontal-menu-item {
+    padding-top: 7px;
+    padding-bottom: 7px;
+    width: 24%;
+    color: white;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.contact-image {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px black solid;
+}
+
+.contact-image:hover {
+    border: white solid 2px;
+}
+
+.btn-succes {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    background-color: white;
+    color: black;
+    padding: 7px;
+    border-radius: 7px;
+    border: 1px white solid;
+    margin-left: 60px;
+}
+
+.btn-succes:hover {
+    border: 1px #00BFFF solid;
+    background-color: #00BFFF;
+    font-weight: 600;
+    text-decoration: underline;
+    color: black;
+}
+
+.btn-succes:active {
+    border: 1px rgb(0, 170, 226) solid;
+    background-color: #00BFFF;
+    font-weight: 600;
+}
+
+.btn-succes:focus {
+    border: 1px rgb(0, 170, 226) solid;
+    background-color: #00BFFF;
+    font-weight: 600;
+}
+
+.panel {
+    margin-top: 7px;
+}
+
+.star {
+    color: rgb(255, 208, 0) !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background-color: none !important;
+    margin-left: 10px;
+}
+
+.star:hover {
+    background-color: black !important;
+}

@@ -1,0 +1,61 @@
+form {
+    margin-left: 100px;
+    margin-right: auto;
+    width: 700px;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 0px;
+}
+
+.form-group {
+    margin: 0px !important;
+    padding: 5px !important;
+}
+
+.btn-succes {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    background-color: white;
+    color: black;
+    padding: 7px;
+    border-radius: 7px;
+    border: 1px white solid;
+    margin: 5px;
+    margin-bottom: 20px;
+}
+
+.btn-succes:hover {
+    border: 1px #00BFFF solid;
+    background-color: #00BFFF;
+    font-weight: 600;
+    text-decoration: underline;
+    color: black;
+}
+
+.btn-succes:active {
+    border: 1px rgb(0, 170, 226) solid;
+    background-color: #00BFFF;
+    font-weight: 600;
+}
+
+.btn-succes:focus {
+    border: 1px rgb(0, 170, 226) solid;
+    background-color: #00BFFF;
+    font-weight: 600;
+}
+
+.data-of-contact {
+    background-color: #00BFFF;
+    padding: 5px;
+    border-radius: 7px;
+    color: black;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.form-control {
+    border-radius: 7px;
+}
+
+

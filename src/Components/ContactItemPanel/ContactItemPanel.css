@@ -1,0 +1,12 @@
+.fa {
+    color: white;
+    width: 20%;
+    padding: 5px;
+    text-align: center;
+}
+
+.fa:hover {
+    color: black;
+    background-color: #00BFFF;
+    border-radius: 7px;
+}
